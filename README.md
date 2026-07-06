@@ -22,8 +22,17 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pratham-r-734167321"><img src="https://img.shields.io/badge/LinkedIn-8A8AFF?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>
-<a href="https://github.com/P-types"><img src="https://img.shields.io/badge/GitHub-8A8AFF?style=for-the-badge&logo=github&logoColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/pratham-r-734167321">
+  <img src="https://img.shields.io/badge/LinkedIn-8A8AFF?style=for-the-badge&logo=linkedin&logoColor=0d1117" />
+</a>
+
+<a href="https://github.com/P-types">
+  <img src="https://img.shields.io/badge/GitHub-8A8AFF?style=for-the-badge&logo=github&logoColor=0d1117" />
+</a>
+
+<a href="https://www.instagram.com/prathamrnayak">
+  <img src="https://img.shields.io/badge/Instagram-8A8AFF?style=for-the-badge&logo=instagram&logoColor=0d1117" />
+</a>
 
 </div>
 
