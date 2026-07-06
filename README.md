@@ -36,14 +36,14 @@
 <td width="50%" valign="top">
 
 **Core Languages**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" height="42"/>
 
 </td>
 <td width="50%" valign="top">
 
 **Web & Data**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,mysql,mongodb" height="42"/>
 
 </td>
@@ -52,7 +52,7 @@
 <td width="50%" valign="top">
 
 **Applied AI / Computer Vision**
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Scikit--learn-8A8AFF?style=flat-square&logo=scikitlearn&logoColor=0d1117"/>
 <img src="https://img.shields.io/badge/OpenCV-8A8AFF?style=flat-square&logo=opencv&logoColor=0d1117"/>
 <img src="https://img.shields.io/badge/ArcFace-8A8AFF?style=flat-square"/>
@@ -65,7 +65,7 @@
 <td width="50%" valign="top">
 
 **Tooling**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" height="42"/>
 
 </td>
