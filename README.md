@@ -45,7 +45,6 @@
 **Web & Data**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,mysql,mongodb" height="42"/>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 </td>
 </tr>
