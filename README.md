@@ -73,36 +73,4 @@
 
 <br/>
 
-## ⟡ Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=P-types&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A8AFF&icon_color=8A8AFF&text_color=c9d1d9&ring_color=8A8AFF" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=P-types&theme=tokyonight&hide_border=true&background=0d1117&ring=8A8AFF&fire=8A8AFF&currStreakLabel=8A8AFF" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-types&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A8AFF&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=P-types&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A8AFF&text_color=c9d1d9&layout=compact" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=P-types&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A8AFF&line=8A8AFF&point=ffffff&area=true" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=P-types&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=P-types&color=8A8AFF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<sub>Open to full-stack & applied-ML collaborations — reach out on LinkedIn.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
