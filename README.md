@@ -44,7 +44,7 @@
 
 **Web & Data**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,mysql,mssql,mongodb" height="42"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,mysql,sqlserver,mongodb" height="42"/>
 
 </td>
 </tr>
